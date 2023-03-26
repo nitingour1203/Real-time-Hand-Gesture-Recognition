@@ -33,9 +33,7 @@
  * Run “pip install tensorflow” to install the tensorflow module.
 5. Numpy – 1.19.3
 
-# Step 1 – Import necessary packages:
 
-To build this Hand Gesture Recognition project, we’ll need four packages. So first import these.
 
 
 
